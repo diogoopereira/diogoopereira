@@ -5,12 +5,6 @@ Sou Analista SOC/NOC Júnior e estudante de Ciência de Dados e IA na PUC-GO. At
 ## 🎓 Formação
 - Graduando em Ciência de Dados e IA - PUC-GO
 
-## 💼 Experiência
-- Analista SOC/NOC Júnior
-- Análise de Dados 
-- Monitoramento e Segurança de Redes
-- Suporte de TI
-
 ## 📞 Contato
 - Email: diogo.zfp@gmail.com  
 - LinkedIn: www.linkedin.com/in/diogo-ferreira-2a4248276
@@ -24,5 +18,5 @@ Sou Analista SOC/NOC Júnior e estudante de Ciência de Dados e IA na PUC-GO. At
 ![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=flat&logo=python&logoColor=white)
 
 ## Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoopereira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoopereira&layout=compact&theme=dark)
 
