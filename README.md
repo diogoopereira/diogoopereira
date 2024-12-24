@@ -2,14 +2,14 @@
 
 Sou Analista SOC/NOC Júnior e estudante de Ciência de Dados e IA na PUC-GO. Atuo com análise de dados e segurança da informação, combinando monitoramento de redes com análise de dados para soluções eficientes.
 
-## 🎓 Formação
+## Formação
 - Graduando em Ciência de Dados e IA - PUC-GO
 
-## 📞 Contato
+## Contato
 - Email: diogo.zfp@gmail.com  
 - LinkedIn: www.linkedin.com/in/diogo-ferreira-2a4248276
 
-## 🛠️ Tecnologias / Linguagens Mais Usadas
+## Tecnologias / Linguagens Mais Usadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
