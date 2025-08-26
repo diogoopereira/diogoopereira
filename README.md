@@ -3,7 +3,7 @@
 Sou Analista de Dados e estudante de Ciência de Dados e IA na PUC-GO. Atuo com análise de dados, engenheiro de dados, BI e com o desenvolvimento de Agentes para automatizar processos.
 
 ## Formação
-- Graduando em Ciência de Dados e IA - PUC-GO
+- Graduando em Inteligência Artificial na FIAP
 
 ## Contato
 - Email: diogo.zfp@gmail.com  
