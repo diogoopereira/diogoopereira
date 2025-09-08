@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil GitHub! 👋
 
-Sou Analista de Dados e estudante deInteligência Artificial na FIAP. Atuo com análise de dados, engenheiro de dados, BI e com o desenvolvimento de Agentes para automatizar processos.
+Sou Analista de Dados e estudante de Inteligência Artificial na FIAP. Atuo com análise de dados, engenheiro de dados, BI e com o desenvolvimento de Agentes para automatizar processos.
 
 ## Formação
 - Graduando em Inteligência Artificial na FIAP
