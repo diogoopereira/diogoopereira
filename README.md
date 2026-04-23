@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu perfil GitHub! 👋
 
-Sou Desenvolvedor de Visão Computacional & RPA e Engenheiro de Software. 
+Sou Engenheiro de Software. 
 
 ## Formação
 - Graduando em Inteligência Artificial na FIAP
